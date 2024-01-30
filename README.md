@@ -68,9 +68,7 @@ Follow these steps to get started with the project:
 - Streamlit
 - Plotly
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
